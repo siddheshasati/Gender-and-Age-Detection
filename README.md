@@ -4,7 +4,14 @@ This project performs real-time gender and age detection using deep learning mod
 
 
 
-![Project Screenshot](Images/Selecting the Option as Upload from Device or WebCam Live Feed.png)
+![Project Screenshot]()
+![Alt Text](Images/Selecting the Option as Upload from Device or WebCam Live Feed.png)
+![Alt Text](image_path_or_URL)
+![Alt Text](image_path_or_URL)
+
+![Alt Text](image_path_or_URL)
+![Alt Text](image_path_or_URL)
+
 
 
 
